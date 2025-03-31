@@ -1,0 +1,5 @@
+*.bz2
+facial_keypoints/training.csv
+facial_keypoints/test.csv
+*.dat
+*.zip

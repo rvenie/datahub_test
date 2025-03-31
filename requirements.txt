@@ -1,0 +1,13 @@
+opencv-python 
+dlib 
+imutils 
+numpy 
+matplotlib 
+requests  
+ultralytics
+supervisely
+python-magic
+kaggle
+websockets==13.1
+cv2
+bing_image_downloader
